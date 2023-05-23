@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792644913761",
+    "firebase_url": "https://sadek-fd9a7.firebaseio.com",
+    "project_id": "sadek-fd9a7",
+    "storage_bucket": "sadek-fd9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792644913761:android:f7399dc21caa0efe5e3820",
+        "android_client_info": {
+          "package_name": "com.kima9al"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792644913761-7ntg73eqotkv4nfquno04hts92mtq61a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kima9al",
+            "certificate_hash": "ad17ae613a23d52a641fc914e1e09ea8c423d386"
+          }
+        },
+        {
+          "client_id": "792644913761-j1bqko7bmkoo17rnh3c0pn9m8thbl7m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0cJrU30xbo9G9pVlYUw3R5WDgZcAaUXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792644913761-j1bqko7bmkoo17rnh3c0pn9m8thbl7m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
