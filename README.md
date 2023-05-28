@@ -11,6 +11,10 @@ One of the standout features of Kima9al is its social media integration, enablin
 
 Whether you're seeking motivation, wisdom, or simply a moment of reflection, Kima9al is the go-to app that ensures you never run out of meaningful quotes. Its intuitive user interface, combined with the ever-changing backgrounds and seamless sharing options, creates an immersive experience that encourages users to explore the app's vast collection of quotes and easily share their favorites with the world.
 
+
+## feel free to contact us : https://wa.me/21654120687 or chahedmoetaz@gmail.com
+
+
 ## Photos
 ![Preview](2.jpg)
 ![Preview](3.jpg)
